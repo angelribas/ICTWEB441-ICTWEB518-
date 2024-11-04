@@ -19,7 +19,7 @@ const About = () => {
       <div className="about-us">
         <div className="row">
           <div className="box image-box">
-            <img src="https://www.google.com/imgres?q=images&imgurl=https%3A%2F%2Fletsenhance.io%2Fstatic%2F8f5e523ee6b2479e26ecc91b9c25261e%2F1015f%2FMainAfter.jpg&imgrefurl=https%3A%2F%2Fletsenhance.io%2F&docid=-t22bY2ix3gHaM&tbnid=tYmxDgFq4MrkJM&vet=12ahUKEwjV7Oi7_sGJAxVUSzABHRhgIVYQM3oECBkQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwjV7Oi7_sGJAxVUSzABHRhgIVYQM3oECBkQAA" alt="About Us" />
+            <img src="https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg" alt="About Us" />
           </div>
           <div className="box text-box">
             <h2>About Us</h2>
