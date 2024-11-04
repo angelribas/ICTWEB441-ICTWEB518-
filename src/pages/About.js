@@ -11,7 +11,7 @@ const About = () => {
           <h1>Welcome to Bryan's Café</h1>
           <p>Where Community Meets Flavor. Discover Our Story and Our Passion for Quality.</p>
           <hr />
-          <a href="/menu.js">Explore Our Menu</a>
+          <a href="/menu">Explore Our Menu</a>
         </div>
       </section>
 
