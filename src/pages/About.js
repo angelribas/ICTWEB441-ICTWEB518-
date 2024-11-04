@@ -9,7 +9,7 @@ const About = () => {
      
         <div className="home-container">
           <h1>Welcome to Bryan's Café</h1>
-          <p>Where Community Meets Flavor. Discover Our Story and Our Passion for Quality.</p>
+          <p>Where Community Meets Flavor. Discover Our Story and Our sPassion for Quality.</p>
           <hr />
           <a href="/menu">Explore Our Menu</a>
         </div>
@@ -38,6 +38,7 @@ const About = () => {
         </div>
       </div>
     </div>
+
   );
 };
 
