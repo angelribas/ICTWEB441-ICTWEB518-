@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="footer">
       <p>
         &copy; {currentYear} Bryan's Café. All rights reserved. | 
-        <a href="/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+        <Link to="/privacy-policy" className="footer-link"> Privacy Policy</Link>
       </p>
     </footer>
   );
