@@ -7,7 +7,7 @@ const Menu = () => {
   const [error, setError] = useState(null); // State to hold error messages
 
   useEffect(() => {
-    fetch('/menu.xml') // Using HTTPS
+    fetch(`${process.env.PUBLIC_URL}/menu.xml`) // Using HTTPS
       .then((response) => {
         // Check if response is OK (status in the range 200-299)
         if (!response.ok) {

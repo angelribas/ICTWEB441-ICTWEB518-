@@ -23,7 +23,7 @@ const About = () => {
           </div>
           <div className="box text-box">
             <h2>About Us</h2>
-            <p>Welcome to Bryan's Café, swhere every sip and bite is a celebration of flavor and community. Our café is dedicated to creating a warm and inviting atmosphere for all who walk through our doors. We offer a delightful menu featuring freshly brewed coffee, homemade pastries, and seasonal dishes made from locally sourced ingredients. At Bryan's, we strive to foster connections and provide a space where friends, families, and neighbors can come together to enjoy great food and memorable experiences.</p>
+            <p>Welcome to Bryan's Café, where every sip and bite is a celebration of flavor and community. Our café is dedicated to creating a warm and inviting atmosphere for all who walk through our doors. We offer a delightful menu featuring freshly brewed coffee, homemade pastries, and seasonal dishes made from locally sourced ingredients. At Bryan's, we strive to foster connections and provide a space where friends, families, and neighbors can come together to enjoy great food and memorable experiences.</p>
           </div>
         </div>
 
