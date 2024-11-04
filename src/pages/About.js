@@ -19,7 +19,7 @@ const About = () => {
       <div className="about-us">
         <div className="row">
           <div className="box image-box">
-            <img src="${process.env.PUBLIC_URL}/about-img.jpg" alt="About Us" />
+            <img src="/about-img.jpg" alt="About Us" />
           </div>
           <div className="box text-box">
             <h2>About Us</h2>
