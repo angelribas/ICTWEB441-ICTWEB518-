@@ -5,7 +5,7 @@ const Contact = () => {
   const [branches, setBranches] = useState([]);
 
   useEffect(() => {
-    fetch('/branches.xml')
+    fetch(`${process.env.PUBLIC_URL}/branches.xml`)
       .then((response) => response.text())
       .then((xmlString) => {
         const parser = new DOMParser();
