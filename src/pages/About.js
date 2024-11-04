@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 import '../styles/About.css';
 
 const About = () => {
@@ -6,12 +7,12 @@ const About = () => {
     <div className="about-page">
       {/* Banner section */}
       <section className="home">
-     
         <div className="home-container">
           <h1>Welcome to Bryan's Café</h1>
           <p>Where Community Meets Flavor. Discover Our Story and Our Passion for Quality.</p>
           <hr />
-          <a href="/menu">Explore Our Menu</a>
+          {/* Use Link instead of anchor tag */}
+          <Link to="/menu">Explore Our Menu</Link>
         </div>
       </section>
 
