@@ -19,7 +19,7 @@ const About = () => {
       <div className="about-us">
         <div className="row">
           <div className="box image-box">
-            <img src="https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg" alt="About Us" />
+            <img src="about-img.jpg" alt="About Us" />
           </div>
           <div className="box text-box">
             <h2>About Us</h2>
